@@ -1,13 +1,13 @@
 <?php
 
-namespace zmoyi\JuShuiTan\Auth;
+namespace sursir\JuShuiTan\Auth;
 
 use Exception;
 use GuzzleHttp\Exception\GuzzleException;
-use zmoyi\JuShuiTan\Api\Common\BaseApi;
-use zmoyi\JuShuiTan\Api\Common\Client;
-use zmoyi\JuShuiTan\Api\Common\Util;
-use zmoyi\JuShuiTan\JuShuiTan;
+use sursir\JuShuiTan\Api\Common\BaseApi;
+use sursir\JuShuiTan\Api\Common\Client;
+use sursir\JuShuiTan\Api\Common\Util;
+use sursir\JuShuiTan\JuShuiTan;
 use Psr\Http\Message\StreamInterface;
 
 class Auth extends BaseApi

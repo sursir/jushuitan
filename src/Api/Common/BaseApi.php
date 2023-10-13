@@ -1,8 +1,8 @@
 <?php
 
-namespace zmoyi\JuShuiTan\Api\Common;
+namespace sursir\JuShuiTan\Api\Common;
 
-use zmoyi\JuShuiTan\JuShuiTan;
+use sursir\JuShuiTan\JuShuiTan;
 
 class BaseApi extends JuShuiTan
 {

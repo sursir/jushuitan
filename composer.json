@@ -1,11 +1,11 @@
 {
-  "name": "zmoyi/jushuitan",
-  "description": "聚水潭-php-sdk",
+  "name": "sursir/jushuitan",
+  "description": "聚水潭-php7.1-sdk",
   "keywords": ["JuShuiTan", "ERP"],
   "type": "library",
   "require": {
-    "php": ">=7.4.3",
-    "guzzlehttp/guzzle": "^7.5.0",
+    "php": ">=7.1.0",
+    "guzzlehttp/guzzle": "^6",
     "ext-json": "*"
   },
   "license": "MIT",
@@ -16,8 +16,8 @@
   },
   "authors": [
     {
-      "name": "墨子熙",
-      "email": "zmszm666@163.com"
+      "name": "Yang",
+      "email": "xuy_young@outlook.com"
     }
   ],
   "minimum-stability": "dev"
